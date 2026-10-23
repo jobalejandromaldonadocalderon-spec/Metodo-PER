@@ -14,7 +14,8 @@ public class AlgoritmoPER {
         this.columnas = columnas;
     }
   
- //Hola amigos aqui trabajaremos para el proyecto de sanabria
+ //Hola amigos aqui trabajaremos para el proyecto del profe sanabria
+    //Nos pondremos de acuerdo mañana en la clase
    
    
            }
