@@ -16,5 +16,8 @@ public class AlgoritmoPER {
   
  //Hola amigos aqui trabajaremos para el proyecto del profe sanabria
     //Nos pondremos de acuerdo mañana en la clase
-   
+   //Hola gay
+   //Job me la pela
+    //Hay que ir a pistear
+    //saca las caguamas
            }
