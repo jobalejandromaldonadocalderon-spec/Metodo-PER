@@ -9,6 +9,6 @@ public class Main {
 
         ProyectoPERT proyecto = new ProyectoPERT();
 
-       
+         proyecto.ejecutar();
     }
 }
